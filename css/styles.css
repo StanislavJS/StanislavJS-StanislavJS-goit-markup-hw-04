@@ -197,6 +197,16 @@ header .logo {
   padding: 120px 0;
 }
 
+.benefits-icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  height: 112px;
+  border-radius: 4px;
+  background: url('path_to_image');
+}
+
 .benefits-list-list {
   margin-top: 72px;
   display: flex;
